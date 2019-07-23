@@ -43,7 +43,7 @@ https://www.w3schools.com/react/default.asp
    npx create-react-app myfirstreact
    ```
 
-   ​	![스크린샷 2019-07-23 오후 2.02.56](../images/스크린샷 2019-07-23 오후 2.02.56.png)
+![스크린샷 2019-07-23 오후 2.02.56](/images/190723screenshot1.png)
 
 5. myfirstreact 실행
 
@@ -54,9 +54,9 @@ https://www.w3schools.com/react/default.asp
 
 
 
-5. 웹에서 localhost:3000 으로 접속시 다음과 같은 화면이 나온다
+7. 웹에서 localhost:3000 으로 접속시 다음과 같은 화면이 나온다
 
-![스크린샷 2019-07-23 오후 2.04.09](../images/스크린샷 2019-07-23 오후 2.04.09.png)
+![스크린샷 2019-07-23 오후 2.04.09](/images/190723screenshot2.png)
 
 
 

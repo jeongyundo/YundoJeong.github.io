@@ -26,7 +26,7 @@ permalink: /archive/
       {% else %}
       <a href="{{ site.baseurl }}{{ post.url }}">
       {% endif %}
-        {{ post.excerpt }}
+        {{ post.excerpt | url_decode}}
       </a>
       <time>{{ post.date | date: "%Y-%m-%d" }}</time>
     </li>

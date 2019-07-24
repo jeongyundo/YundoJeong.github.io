@@ -36,7 +36,8 @@ https://www.w3schools.com/react/default.asp
 
 3. 실행을 위한 라이브러리 설치
 
-4. ```
+4. 
+   ```
    1. create-react-app를 설치(터미널에서 설치가능)
    npm install -g create-react-app
    2. create-react-app를 이용해 myfirstreact라는 이름의 react를 설치 
@@ -47,7 +48,8 @@ https://www.w3schools.com/react/default.asp
 
 5. myfirstreact 실행
 
-6. ```
+6. 
+   ```
    cd myfirstreact
    npm start
    ```

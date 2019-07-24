@@ -4,9 +4,7 @@ title: React first step
 tags:
   - React
 ---
-<h1><b>React</b></h1>
-
-<h2>React에 대한 초록</h2>
+<h1>React에 대한 초록</h1>
 
 React를 위해서 선행해야할 공부는 다음과 같다.
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: React first step
+tags:
+- Django
+- React
+---
 <h1>뒤는 Django가 앞은 React가 맡는다</h1>
 
 간단예제이다.

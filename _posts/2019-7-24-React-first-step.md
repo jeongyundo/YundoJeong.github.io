@@ -4,8 +4,10 @@ title: React first step
 tags:
   - React
 ---
-<h1>React에 대한 초록</h1>
+<h1>어떻게 도화지를 만드는가?</h1>
 
+어떻게 도화지를 만드는가?
+<h2>React에 대한 초록</h2>
 React를 위해서 선행해야할 공부는 다음과 같다.
 
 1. <b>HTML</b>
@@ -36,9 +38,9 @@ https://www.w3schools.com/react/default.asp
 
 4. 
    ```
-   1. create-react-app를 설치(터미널에서 설치가능)
+   create-react-app를 설치(터미널에서 설치가능)
    npm install -g create-react-app
-   2. create-react-app를 이용해 myfirstreact라는 이름의 react를 설치 
+   create-react-app를 이용해 myfirstreact라는 이름의 react를 설치 
    npx create-react-app myfirstreact
    ```
 

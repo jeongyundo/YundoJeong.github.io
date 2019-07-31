@@ -4,7 +4,7 @@ title: React first step
 tags:
   - React
 ---
-<h1>어떻게 도화지를 만드는가?</h1>
+<h1>도화지 위의 퍼즐, React [2]</h1>
 
 어떻게 도화지를 만드는가?
 <h2>React에 대한 초록</h2>

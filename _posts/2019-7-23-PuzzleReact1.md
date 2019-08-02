@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PuzzleReact
+title: PuzzleReact-1
 tags:
   - React
 ---

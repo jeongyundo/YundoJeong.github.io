@@ -1,6 +1,6 @@
 ---
 layout: post
-title: React first step
+title: PuzzleReact-2
 tags:
   - React
 ---
